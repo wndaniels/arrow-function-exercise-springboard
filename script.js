@@ -1,3 +1,7 @@
+/* =======================================
+REPLACE ALL FUNCTIONS WITH ARROW FUNCTIONS
+======================================= */
+
 // function squareAndFindEvens(numbers) {
 //   let squares = numbers.map(function (num) {
 //     return num ** 2;
